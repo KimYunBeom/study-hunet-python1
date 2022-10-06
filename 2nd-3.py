@@ -1,4 +1,5 @@
-# dictionary 자료형
+# 자료형 > dictionary
+
 # key, value로 이뤄진 자료형
 # key는 숫자보다 문자를 추천
 
